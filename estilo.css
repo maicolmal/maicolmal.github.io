@@ -6,6 +6,8 @@
 
 .index{
     background-color: rgba(6, 18, 36, 1);
+    width: 100%;
+    height: auto;
 }
 
 header{
@@ -45,7 +47,7 @@ header{
 }
 
 .botones{
-    width: 1440px;
+    width: 100%;
 }
 
 .botones a{
@@ -74,7 +76,7 @@ header{
 .estudio{
     text-align: right;
     align-items: flex-end;
-    padding-top: 150px;
+    padding-top: 160px;
     margin-right: 70px;   
 }
 img{
@@ -86,8 +88,8 @@ img{
 
 .acercademi{
     background-color: rgba(140, 219, 236, 1);
-    width: 1440px;
-    height: 1044px;
+    width: 100%;
+    height: auto;
 }
 @media ( max-width: 600px ){
     
